@@ -7,6 +7,7 @@
     <title>Home</title>
 </head>
 <body>
-    <p>Testing</p>
+    <p>Fix conflict</p>
+    <p>New</p>
 </body>
 </html>
